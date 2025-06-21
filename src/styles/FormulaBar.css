@@ -1,0 +1,18 @@
+.formula-bar {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.selected-cell {
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.formula-input {
+  flex-grow: 1;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+} 
