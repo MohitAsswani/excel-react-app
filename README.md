@@ -1,6 +1,8 @@
 # Excel React App
 
 This project is a frontend-only Excel sheet clone built with React and Vite. It renders a large grid of cells and supports basic formula operations.
+![image](https://github.com/user-attachments/assets/910c47d4-8c1e-4a0d-826b-8ac9c3d0b1bb)
+
 
 ## Features
 
